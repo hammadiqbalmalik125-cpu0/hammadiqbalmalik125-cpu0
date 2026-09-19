@@ -1,6 +1,4 @@
-# Hammad Malik
-
-Hi! I’m Hammad — an AI Agent & Automation Developer who enjoys turning “this takes forever” into “wait… it’s already done?” 🚀
+Hi! I’m Hammad an AI Agent & Automation Developer who enjoys turning “this takes forever” into “wait… it’s already done?” 🚀
 
 I build AI agents, intelligent automations, Voice AI systems, RAG applications, and custom software that help businesses save time, reduce repetitive work, and move faster.
 
@@ -12,7 +10,7 @@ It’s about finding the boring, repetitive, expensive parts of a business — a
 
 That’s where I come in.
 
-## 🤖 Things I Love Building
+ 🤖 Things I Love Building
 
 ⚡ AI Agents that can think, use tools, make decisions, and take action
 🎙️ Voice AI for calls, qualification, support, and business workflows
@@ -23,7 +21,7 @@ That’s where I come in.
 🔌 API Integrations that make different systems work together
 🐍 Python Backends & AI Applications built for real-world use
 
-## 🛠️ My Favorite Playground
+ 🛠️ My Favorite Playground
 
 - AI: OpenAI, LLMs, AI Agents, RAG, Prompt Engineering
 - Automation: n8n, Webhooks, APIs, Workflow Automation
@@ -47,18 +45,17 @@ I start with:
 
 That mindset has helped me work across AI, automation, cloud infrastructure, backend systems, and full-stack development — always with the same goal:
 
-### Build something useful.
-### Make it reliable.
-### Make it scalable.
-### And make someone’s life easier. 🚀
+ Build something useful.
+ Make it reliable.
+ Make it scalable.
+ And make someone’s life easier. 🚀
 
 If you have a process that’s eating up your team’s time, a product idea you’ve been sitting on, or an AI workflow you’ve been wondering “Can this actually be automated?”...
 
 Let’s build it. 💡
 
----
 
-## Connect
+# Connect
 
 - Email: hammadiqbalmalik125@gmail.com
 - GitHub: https://github.com/hammadiqbalmalik125-cpu0
